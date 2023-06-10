@@ -39,7 +39,7 @@ namespace BookstoreManagementApp.Classes.Services
 
         private void LogError(Exception ex)
         {
-            string errorMessage = $"[{DateTime.Now}] Error: {ex.Message}\nStackTrace: {ex.StackTrace}";
+            string errorMessage = $"[{DateTime.Now}] {Const.Error} {ex.Message}\n {Const.Stacktrace} {ex.StackTrace}";
             File.AppendAllText(Const.ErrorLogFileName, errorMessage);
         }
     }

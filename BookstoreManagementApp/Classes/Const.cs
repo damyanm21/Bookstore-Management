@@ -27,6 +27,8 @@ namespace BookstoreManagementApp.Classes
         public const string NullPriceError = "Price field cannot be empty.";
         public const string NullQuantityError = "Quantity field cannot be empty.";
 
+        public const string Error = "Error: ";
+        public const string Stacktrace = "Stacktrace: ";
         public const string JsonReadError = "An error occurred while reading the JSON file. ";
         public const string JsonWriteError = "An error occurred while writing the JSON file. ";
         public const string JsonSaveError = "An error occurred while saving the JSON file. ";
