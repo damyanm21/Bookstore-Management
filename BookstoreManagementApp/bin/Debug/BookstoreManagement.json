@@ -1,0 +1,436 @@
+{
+  "Books": [
+    {
+      "ID": 1,
+      "Title": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Price": 13.151870775,
+      "Quantity": 10,
+      "Description": "Classic tale of wealth, love, and tragedy."
+    },
+    {
+      "ID": 2,
+      "Title": "To Kill a Mockingbird",
+      "Author": "Harper Lee",
+      "Price": 10.051414378125,
+      "Quantity": 5,
+      "Description": "Innocence and injustice in the American South."
+    },
+    {
+      "ID": 3,
+      "Title": "1984",
+      "Author": "George Orwell",
+      "Price": 7.730071565625,
+      "Quantity": 15,
+      "Description": "Dystopian society ruled by Big Brother."
+    },
+    {
+      "ID": 4,
+      "Title": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "Price": 12.4935827625,
+      "Quantity": 8,
+      "Description": "Love, manners, and societal expectations."
+    },
+    {
+      "ID": 5,
+      "Title": "The Catcher in the Rye",
+      "Author": "J.D. Salinger",
+      "Price": 9.277633440625,
+      "Quantity": 12,
+      "Description": null
+    },
+    {
+      "ID": 6,
+      "Title": "Moby-Dick",
+      "Author": "Herman Melville",
+      "Price": 11.7991090125,
+      "Quantity": 3,
+      "Description": "The hunt for the legendary white whale."
+    },
+    {
+      "ID": 7,
+      "Title": "The Lord of the Rings",
+      "Author": "J.R.R. Tolkien",
+      "Price": 16.322510475,
+      "Quantity": 20,
+      "Description": "Epic fantasy journey to destroy the One Ring."
+    },
+    {
+      "ID": 8,
+      "Title": "Jane Eyre",
+      "Author": "Charlotte Brontë",
+      "Price": 10.825195315625,
+      "Quantity": 6,
+      "Description": "Orphaned governess finds love and independence."
+    },
+    {
+      "ID": 9,
+      "Title": "Brave New World",
+      "Author": "Aldous Huxley",
+      "Price": 8.503852503125,
+      "Quantity": 9,
+      "Description": "Future society of genetic engineering and control."
+    },
+    {
+      "ID": 10,
+      "Title": "The Odyssey",
+      "Author": "Homer",
+      "Price": 12.493948275,
+      "Quantity": 4,
+      "Description": "Epic tale of Odysseus' journey home from Troy."
+    },
+    {
+      "ID": 11,
+      "Title": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Price": 11.72155944375,
+      "Quantity": 7,
+      "Description": "Bilbo Baggins' unexpected adventure."
+    },
+    {
+      "ID": 12,
+      "Title": "Fahrenheit 451",
+      "Author": "Ray Bradbury",
+      "Price": 9.277633440625,
+      "Quantity": 11,
+      "Description": "A world where books are banned and burned."
+    },
+    {
+      "ID": 13,
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "Price": 13.151870775,
+      "Quantity": 13,
+      "Description": "A journey of self-discovery and following dreams."
+    },
+    {
+      "ID": 14,
+      "Title": "The Great Expectations",
+      "Author": "Charles Dickens",
+      "Price": 10.051414378125,
+      "Quantity": 6,
+      "Description": null
+    },
+    {
+      "ID": 15,
+      "Title": "The Adventures of Huckleberry Finn",
+      "Author": "Mark Twain",
+      "Price": 11.598976253125,
+      "Quantity": 9,
+      "Description": "Huck's journey down the Mississippi River."
+    },
+    {
+      "ID": 16,
+      "Title": "The Stranger",
+      "Author": "Albert Camus",
+      "Price": 8.503852503125,
+      "Quantity": 7,
+      "Description": "Existential exploration of human absurdity."
+    },
+    {
+      "ID": 17,
+      "Title": "The Chronicles of Narnia",
+      "Author": "C.S. Lewis",
+      "Price": 15.795807975,
+      "Quantity": 3,
+      "Description": "Children's fantasy series with Christian allegories."
+    },
+    {
+      "ID": 18,
+      "Title": "One Hundred Years of Solitude",
+      "Author": "Gabriel García Márquez",
+      "Price": 10.825195315625,
+      "Quantity": 5,
+      "Description": "Family saga blending reality and magical realism."
+    },
+    {
+      "ID": 19,
+      "Title": "Anna Karenina",
+      "Author": "Leo Tolstoy",
+      "Price": 15.60960315,
+      "Quantity": 10,
+      "Description": "Passionate love and tragic consequences."
+    },
+    {
+      "ID": 20,
+      "Title": "The Picture of Dorian Gray",
+      "Author": "Oscar Wilde",
+      "Price": 9.277633440625,
+      "Quantity": 8,
+      "Description": "The corruption of a young man's soul."
+    },
+    {
+      "ID": 21,
+      "Title": "The Brothers Karamazov",
+      "Author": "Fyodor Dostoevsky",
+      "Price": 11.598976253125,
+      "Quantity": 6,
+      "Description": "Philosophical exploration of faith and morality."
+    },
+    {
+      "ID": 22,
+      "Title": "Crime and Punishment",
+      "Author": "Fyodor Dostoevsky",
+      "Price": 14.49423315,
+      "Quantity": 9,
+      "Description": "Mental anguish and guilt after a crime."
+    },
+    {
+      "ID": 23,
+      "Title": "Lord of the Flies",
+      "Author": "William Golding",
+      "Price": 7.730071565625,
+      "Quantity": 15,
+      "Description": "Children stranded on an island turn savage."
+    },
+    {
+      "ID": 24,
+      "Title": "The Divine Comedy",
+      "Author": "Dante Alighieri",
+      "Price": 14.7563451,
+      "Quantity": 4,
+      "Description": "Epic journey through Hell, Purgatory, and Heaven."
+    },
+    {
+      "ID": 25,
+      "Title": "Frankenstein",
+      "Author": "Mary Shelley",
+      "Price": 10.825195315625,
+      "Quantity": 8,
+      "Description": "The creation of life and its consequences."
+    },
+    {
+      "ID": 26,
+      "Title": "The Grapes of Wrath",
+      "Author": "John Steinbeck",
+      "Price": 9.277633440625,
+      "Quantity": 12,
+      "Description": "The struggles of Depression-era migrant workers."
+    },
+    {
+      "ID": 27,
+      "Title": "A Tale of Two Cities",
+      "Author": "Charles Dickens",
+      "Price": 13.94770185,
+      "Quantity": 6,
+      "Description": "Love and sacrifice during the French Revolution."
+    },
+    {
+      "ID": 28,
+      "Title": "Slaughterhouse-Five",
+      "Author": "Kurt Vonnegut",
+      "Price": 8.503852503125,
+      "Quantity": 9,
+      "Description": "A nonlinear account of World War II experiences."
+    },
+    {
+      "ID": 29,
+      "Title": "The Count of Monte Cristo",
+      "Author": "Alexandre Dumas",
+      "Price": 16.16728815,
+      "Quantity": 4,
+      "Description": "A tale of revenge and redemption."
+    },
+    {
+      "ID": 30,
+      "Title": "The Scarlet Letter",
+      "Author": "Nathaniel Hawthorne",
+      "Price": 11.72155944375,
+      "Quantity": 7,
+      "Description": "The consequences of adultery and guilt."
+    },
+    {
+      "ID": 31,
+      "Title": "The Iliad",
+      "Author": "Homer",
+      "Price": 9.277633440625,
+      "Quantity": 11,
+      "Description": null
+    },
+    {
+      "ID": 32,
+      "Title": "A Farewell to Arms",
+      "Author": "Ernest Hemingway",
+      "Price": 7.730071565625,
+      "Quantity": 13,
+      "Description": "Love and loss during World War I."
+    },
+    {
+      "ID": 33,
+      "Title": "The Old Man and the Sea",
+      "Author": "Ernest Hemingway",
+      "Price": 10.051414378125,
+      "Quantity": 6,
+      "Description": "An old fisherman's battle with a marlin."
+    },
+    {
+      "ID": 34,
+      "Title": "The Canterbury Tales",
+      "Author": "Geoffrey Chaucer",
+      "Price": 11.598976253125,
+      "Quantity": 9,
+      "Description": "Collection of stories told by pilgrims."
+    },
+    {
+      "ID": 35,
+      "Title": "Beloved",
+      "Author": "Toni Morrison",
+      "Price": 8.503852503125,
+      "Quantity": 7,
+      "Description": "Haunted by the memories of slavery."
+    },
+    {
+      "ID": 36,
+      "Title": "Heart of Darkness",
+      "Author": "Joseph Conrad",
+      "Price": 15.795807975,
+      "Quantity": 3,
+      "Description": "Journey up the Congo River and into the human soul."
+    },
+    {
+      "ID": 37,
+      "Title": "The Sun Also Rises",
+      "Author": "Ernest Hemingway",
+      "Price": 10.825195315625,
+      "Quantity": 5,
+      "Description": "Expatriates in post-World War I Europe."
+    },
+    {
+      "ID": 38,
+      "Title": "Wuthering Heights",
+      "Author": "Emily Brontë",
+      "Price": 12.4935827625,
+      "Quantity": 10,
+      "Description": "Love and revenge on the Yorkshire moors."
+    },
+    {
+      "ID": 39,
+      "Title": "A Clockwork Orange",
+      "Author": "Anthony Burgess",
+      "Price": 9.277633440625,
+      "Quantity": 8,
+      "Description": null
+    },
+    {
+      "ID": 40,
+      "Title": "Gone with the Wind",
+      "Author": "Margaret Mitchell",
+      "Price": 8.503852503125,
+      "Quantity": 6,
+      "Description": "Love and war during the American Civil War."
+    },
+    {
+      "ID": 41,
+      "Title": "The Sound and the Fury",
+      "Author": "William Faulkner",
+      "Price": 10.051414378125,
+      "Quantity": 9,
+      "Description": "The decline of the Compson family in the South."
+    },
+    {
+      "ID": 42,
+      "Title": "Sapiens: A Brief History of Humankind",
+      "Author": "Yuval Noah Harari",
+      "Price": 15.795807975,
+      "Quantity": 7,
+      "Description": null
+    },
+    {
+      "ID": 43,
+      "Title": "The Color Purple",
+      "Author": "Alice Walker",
+      "Price": 7.730071565625,
+      "Quantity": 15,
+      "Description": "The life and struggles of African-American women."
+    },
+    {
+      "ID": 44,
+      "Title": "The Metamorphosis",
+      "Author": "Franz Kafka",
+      "Price": 11.7991090125,
+      "Quantity": 4,
+      "Description": "Gregor Samsa's transformation into a giant insect."
+    },
+    {
+      "ID": 45,
+      "Title": "The Shining",
+      "Author": "Stephen King",
+      "Price": 14.1658551,
+      "Quantity": 8,
+      "Description": "A family's descent into madness at an isolated hotel."
+    },
+    {
+      "ID": 46,
+      "Title": "Catch-22",
+      "Author": "Joseph Heller",
+      "Price": 9.277633440625,
+      "Quantity": 12,
+      "Description": "Satirical portrayal of military bureaucracy."
+    },
+    {
+      "ID": 47,
+      "Title": "A Room of One's Own",
+      "Author": "Virginia Woolf",
+      "Price": 11.598976253125,
+      "Quantity": 6,
+      "Description": "Feminist essay on women and literature."
+    },
+    {
+      "ID": 48,
+      "Title": "The Secret Garden",
+      "Author": "Frances Hodgson Burnett",
+      "Price": 7.730071565625,
+      "Quantity": 9,
+      "Description": "A magical garden brings healing and growth."
+    },
+    {
+      "ID": 49,
+      "Title": "The Road",
+      "Author": "Cormac McCarthy",
+      "Price": 16.16728815,
+      "Quantity": 4,
+      "Description": "A father and son's journey in a post-apocalyptic world."
+    },
+    {
+      "ID": 50,
+      "Title": "The Adventures of Tom Sawyer",
+      "Author": "Mark Twain",
+      "Price": 11.72155944375,
+      "Quantity": 7,
+      "Description": null
+    },
+    {
+      "ID": 51,
+      "Title": "Journey of Souls",
+      "Author": "Michael Newton",
+      "Price": 19.8326250,
+      "Quantity": 10,
+      "Description": "provides a fascinating and complete worldview, presented with a remarkable level of objectivity and supporting data."
+    },
+    {
+      "ID": 52,
+      "Title": "AAA",
+      "Author": "AAA",
+      "Price": 16.200,
+      "Quantity": 10,
+      "Description": "ddd"
+    },
+    {
+      "ID": 53,
+      "Title": "BBB",
+      "Author": "BBB",
+      "Price": 16.200,
+      "Quantity": 20,
+      "Description": "CDD"
+    },
+    {
+      "ID": 54,
+      "Title": "DDDD",
+      "Author": "EEEEEE",
+      "Price": 20.0,
+      "Quantity": 39,
+      "Description": "d"
+    }
+  ]
+}
