@@ -22,6 +22,7 @@ namespace BookstoreManagementAppTests
         }
 
         [Test]
+        //Tests the AddNewBook method with valid input. Verifies that the method returns true.
         public void AddNewBook_ValidInput_ReturnsTrue()
         {
             // Arrange
@@ -36,6 +37,7 @@ namespace BookstoreManagementAppTests
         }
 
         [Test]
+        //Tests the AddNewBook method with invalid input. Verifies that the method returns false.
         public void AddNewBook_InvalidInput_ReturnsFalse()
         {
             // Arrange
@@ -50,6 +52,7 @@ namespace BookstoreManagementAppTests
         }
 
         [Test]
+        //Tests the AddNewBook method with null book data.. Verifies that the method returns false.
         public void AddNewBook_NullBookData_ReturnsFalse()
         {
             // Arrange
@@ -63,6 +66,8 @@ namespace BookstoreManagementAppTests
         }
 
         [Test]
+        //Tests the AddNewBook method with empty fields. Verifies that the method returns false.
+
         public void AddNewBook_WithEmptyFields_ShouldReturnFalse()
         {
             // Arrange
