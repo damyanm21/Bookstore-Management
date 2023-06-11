@@ -69,7 +69,7 @@
     <Compile Include="Classes\Program.cs" />
     <Compile Include="Classes\Services\AddNewBookService.cs" />
     <Compile Include="Classes\Services\CalculateTotalValueService.cs" />
-    <Compile Include="Classes\Services\ConsoleViewValidations.cs" />
+    <Compile Include="Classes\ConsoleViewValidations.cs" />
     <Compile Include="Classes\Services\DiscountCalculationService.cs" />
     <Compile Include="Classes\Services\DisplayBooksService.cs" />
     <Compile Include="Classes\Services\JsonHandlerService.cs" />
