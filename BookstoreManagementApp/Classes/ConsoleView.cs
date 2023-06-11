@@ -17,8 +17,8 @@ namespace BookstoreManagementApp.Classes
         public ConsoleView(IBookManager bookManager, BookData bookData, StringBuilder output)
         {
             _bookManager = bookManager;
-            _output = output;
             _bookData = bookData;
+            _output = output;
         }
 
         public enum Menu
